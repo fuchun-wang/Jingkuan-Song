@@ -9,7 +9,7 @@ address: <a href="https://www.google.com/maps/place/Googleplex/@37.4220656,-122.
 ---
 
 <div class="col p-0 pt-4 pb-4">
-  <h1 class="pb-3 title text-left font-weight-bold">Otilia Stretcu</h1>
+  <h1 class="pb-3 title text-left font-weight-bold">Jingkuan Song</h1>
   <h6 class="m-0 mb-2" style="font-size: 0.83em;">{{ page.description }}</h6>
   {% if page.address %}
       <h6 class="m-0 mb-2" style="font-size: 0.83em;">{{ page.address }}</h6>
@@ -25,14 +25,11 @@ address: <a href="https://www.google.com/maps/place/Googleplex/@37.4220656,-122.
         </div>
 
         <p>
-            I am a Research Scientist at <a href="https://ai.google/" target="_blank">Google AI</a> in Mountain View, California, working on machine learning research.
+            Jingkuan Song is a full professor with [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). He joined [Columbia University](https://www.columbia.edu/) as a Postdoc Research Scientist (2016-2017), and [University of Trento](http://www.unitn.it/) as a Research Fellow (2014-2016). He obtained his PhD degree in 2014 from The University of Queensland (UQ), Australia (advised by [Prof. Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/)). His research interest includes large-scale multimedia retrieval, image/video segmentation and image/video understading using hashing, graph learning and deep learning techniques. He was the winner of the Best Paper Award in ICPR (2016, Mexico), Best Student Paper Award in Australian Database Conference (2017, Australia), and Best Paper Honorable Mention Award (2017, Japan). He is Guest Editor of TMM, WWWJ and he is PC member of CVPR’18, MM'18, IJCAI'18, etc.
         </p>
         
         <p>
-            Previously, I was a PhD student in the <a href="http://www.ml.cmu.edu/" target="_blank">Machine Learning Department</a> at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, co-advised by <a href="http://www.cs.cmu.edu/~tom/" target="_blank">Tom Mitchell</a> and <a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank">Barnabàs Pòczos</a>.
-            My PhD research focused on developing algorithms for machine learning, mainly focused on semi-supervised learning, curriculum learning, multitask learning, and graph-based problems.
-            I am also passionate about applying machine learning methods in neuroscience, in order to study how the brain understands language and controls speech.
-            Previously, I did some research in Computer Vision, with the goal of detecting and tracking objects in videos.
+            I am looking for highly motivated PhD students, Postdoctorals and Assistant Professors to conduct world-class research in my team. Please send your CV or enquiries to my email.
         </p>
     </div>
 </div>
